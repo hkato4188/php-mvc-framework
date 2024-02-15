@@ -1,0 +1,13 @@
+{
+  "name": "hkato4188/php-mvc-framework-demo",
+  "authors": [
+    {
+      "name": "Hiroki Kato",
+      "email": "hirokikato1@gmail.com"
+    }
+  ],
+  "autoload": {
+    "app\\": "./"
+  },
+  "require": {}
+}
