@@ -1,0 +1,27 @@
+Create application and router -hk:complete
+Enable autoloading with composer -hk:complete
+Implement routing -hk:target 2/23
+Refactor project structure -hk:target 3/1
+Implement views and layouts -hk:target 3/5
+Implement controllers -hk:target 3/6
+Sanitize $_POST data -hk:target 3/7
+Start Registration
+Implement second layout
+Implement Models
+Implement Validation using models
+Implement form Widget
+Migrations & Connection to Database
+Environment .env file & Application Config
+Implement Migrations
+Implement ActiveRecord & Finish Registration
+Restrict registration with the same email
+Implement Session Flash messages
+Implement Input labels
+Implement Login
+Hide Login/Register buttons When user is authorized
+Create protected routes
+Create View component & implement page titles
+Improve form widget with abstraction
+Make core installable composer package
+Create second website to use the same core
+Add new feature to core and release new version
