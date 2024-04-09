@@ -12,9 +12,7 @@ $app->router->get('/', function () {
     return 'Hello world';
 });
 
-$app->router->get('/contact', function () {
-    return 'Contact page';
-});
+$app->router->get('/contact', 'contact');
 
 $app->router->get('/test', function () {
     return 'the test works';
