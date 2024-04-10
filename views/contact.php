@@ -1,7 +1,1 @@
-<?php
-
-
-
-?>
-
-<h1>Yoooo helloooo from Contact View!</h1>
+<h1>Contact View layout render test</h1>
