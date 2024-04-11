@@ -48,6 +48,6 @@ class Router
     protected function renderOnlyView($view){
         ob_start();
         include_once Application::$ROOT_DIR."/views/$view.php";
-        return <p></p>ob_get_clean();
+        return ob_get_clean();
     }
 }
